@@ -13,5 +13,5 @@ where:
   * `id` is the number of the puzzle
   * `ref`is the reference (short name) of the puzzle
   * `action` is the action performed, and can be:
-    * `post`: the Participant has published a (new) solution
+    * `publish`: the Participant has published a (new) solution
     * `share`: the Participant has shared (new) stuff for the puzzle
