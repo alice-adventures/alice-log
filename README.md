@@ -1,9 +1,9 @@
 # alice-log
 Registry of Participants activities.
 
-Each log file refers to a particular Problem Source. Each line contains one entry of the form
-
->  `date; user; id; title; action; <others>`
+Each log file refers to a particular Problem Source.
+Each line contains one entry of the form
+>  `date; user; id; title; action [; <others>]`
 
 where:
 
